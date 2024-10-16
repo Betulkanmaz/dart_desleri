@@ -1,6 +1,6 @@
 # dart_desleri
 
-A new Flutter project.
+Flutter Wave Bootcamp Notları
 
 ## Getting Started
 
